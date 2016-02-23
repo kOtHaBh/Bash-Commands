@@ -38,9 +38,11 @@ kOtHaBh@vaio$ touch NewFile
 
 ---
 - **cp**: sirve para copiar archivos o carpetas  
+
  ```sh
  kOtHaBh@vaio$ cp File Destination
  ```
+
  - También se puede renombrar el archivo a copiar:
 ```sh
 kOtHaBh@vaio$ cp File Renamedfile Destination
@@ -51,7 +53,12 @@ kOtHaBh@vaio$ cp File Renamedfile Destination
     - -v verbose, muestra en la terminal la acción realizada
 
 ---
-- **mv**
-
+- **mv**: sirve para mover archivos o directorios
+```sh
+ kOtHaBh@vaio$ mv File Destination
+ ```
 ---
--**rm**
+- **rm**: sirve para borrar archivos o directorios
+```sh
+ kOtHaBh@vaio$ rm File 
+ ```
